@@ -24,4 +24,4 @@
 24. git push -u origin main - отправлять изминения на сервер git hob в репозитория git push -u origin main
 25. git pull - запрос изминений с git сервера 
 26. git remote -v - проверка ссылок с git hub для записи и считывания репозитория 
-27. 
+27. git branch --d (имя ветки) - удаление ветки 
